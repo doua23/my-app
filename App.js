@@ -8,7 +8,7 @@ export default function App() {
       <StatusBar style="auto" />
 
       <Text style={styles.title}>
-        Nike Store
+         Bienvenue dans mon application Nike
       </Text>
 
       <ProductScreen />
